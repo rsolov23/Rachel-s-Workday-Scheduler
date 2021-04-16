@@ -20,26 +20,12 @@ var saveBtnArr = document.querySelectorAll(".saveBtn");
 //loop through save buttons and add event listener to each
 for (let i = 0; i <= saveBtnArr.length - 1; i++) {
   saveBtnArr[i].addEventListener("click", function (event) {
-    console.log(event.target.parentNode.children[1].value);
-    console.log(event.target.parentNode.children[1].dataset.hour)
+    var userInput = event.target.parentNode.children[1].value;
+    var userHour = event.target.parentNode.children[1].dataset.hour;
+    localStorage.setItem(userHour, userInput);
   });
 }
 
 // current time?
 
 // localStorage for saved schedule items
-console.log("current time: " + currentHour);
-currentDay.textContent = currentTime;
-
-function saveFunction() {
-  var whatIWantToSave = this.previousElementSibling.value;
-  var referenceToTheValue = this.previousElementSibling.previousElementSibling
-    .textContent;
-
-  //   console.log(referenceToTheValue);
-  localStorage.setItem(referenceToTheValue, whatIWantToSave);
-}
-
-for (i = 0; i < saveBtnArr.length; i++) {
-  saveBtnArr[i].addEventListener("click", saveFunction);
-}
