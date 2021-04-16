@@ -10,7 +10,9 @@ for (let i = 0; i <= timeArr.length - 1; i++) {
   var row = document.createElement("div");
   row.classList.add("row");
   row.innerHTML = `<div class="col-2" id="hour">${timeArr[i]}:00</div>
-  <textarea class="col-8" placeholder="Event" data-hour=${timeArr[i]}></textarea>
+  <textarea class="col-8" placeholder="Event" data-hour=${timeArr[i]}>${
+    localStorage.getItem(timeArr[i]) ? localStorage.getItem(timeArr[i]) : ''
+  }</textarea>
   <button class="col-2 saveBtn">Save</button>`;
 
   //append to schedule container
