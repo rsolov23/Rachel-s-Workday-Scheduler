@@ -24,7 +24,7 @@ This is a Workday Scheduler that will help you plan your day!!
 
 ### Github Profile
 
-https://github.com/rsolov23/
+https://github.com/rsolov23/Workday-Scheduler
 
 ### Link to my Password Generator
 
