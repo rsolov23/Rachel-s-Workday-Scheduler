@@ -1,4 +1,4 @@
-![A screenshot of the web page](/develop/assets/images/Capture.png)
+![A screenshot of the web page](/assets/images/Capture.png)
 
 # Work Day Scheduler
 
