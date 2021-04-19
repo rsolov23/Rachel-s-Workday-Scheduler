@@ -28,7 +28,7 @@ https://github.com/rsolov23/Workday-Scheduler
 
 ### Link to my Password Generator
 
-https://github.com/rsolov23/Workday-Scheduler
+https://rsolov23.github.io/Workday-Scheduler/
 
 ### Contributors
 
