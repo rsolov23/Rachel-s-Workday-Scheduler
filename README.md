@@ -24,11 +24,11 @@ This is a Workday Scheduler that will help you plan your day!!
 
 ### Github Profile
 
-https://github.com/rsolov23/Workday-Scheduler
+https://github.com/rsolov23/Rachel-s-Workday-Scheduler
 
 ### Link to my Workday Scheduler
 
-https://rsolov23.github.io/Workday-Scheduler/
+https://rsolov23.github.io/Rachel-s-Workday-Scheduler/
 
 ### Contributors
 
