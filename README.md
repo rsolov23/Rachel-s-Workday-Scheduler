@@ -1,4 +1,4 @@
-![A screenshot of the web page](/assets/images/Capture.png)
+![A screenshot of the web page](/assets/images/screenshot.PNG)
 
 # Work Day Scheduler
 
@@ -17,7 +17,7 @@ This is a Workday Scheduler that will help you plan your day!!
 ### Instructions
 
 1. Decide the time for the entry you would like to create
-2. Click on the box next to the time you decided which will be gray, red or green
+2. Click on the box next to the time you decided which will be gray(past), red(present) or green(future)
 3. Type in the text
 4. Press the strong cyan save button to the right
 5. Conquer your schedule!!
@@ -26,9 +26,9 @@ This is a Workday Scheduler that will help you plan your day!!
 
 https://github.com/rsolov23/Workday-Scheduler
 
-### Link to my Password Generator
+### Link to my Workday Scheduler
 
-https://github.com/rsolov23/Workday-Scheduler
+https://rsolov23.github.io/Workday-Scheduler/
 
 ### Contributors
 
